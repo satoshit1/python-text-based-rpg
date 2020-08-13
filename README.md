@@ -1,3 +1,4 @@
+[![Run on Repl.it](https://repl.it/badge/github/matthewlucock/python-text-based-rpg)](https://repl.it/github/matthewlucock/python-text-based-rpg)
 # python-text-based-rpg
 
 This is a text-based role-playing-game I wrote in Python for a school project last year. It is by no means a good game, but I think there is some good code here.
